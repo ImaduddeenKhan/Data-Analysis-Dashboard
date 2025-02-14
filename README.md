@@ -17,26 +17,26 @@ The primary goal of this project is to analyze and optimize Blinkit's sales perf
 
 ## Visualization Requirements
 1. Sales Performance by Fat Content.
--Purpose: Examine how different fat content levels affect total sales.
--Additional Insights: Evaluate the impact of fat content on other KPIs, including average revenue, number of items sold, and customer ratings.
--Preferred Visualization: Donut Chart.
+- Purpose: Examine how different fat content levels affect total sales.
+- Additional Insights: Evaluate the impact of fat content on other KPIs, including average revenue, number of items sold, and customer ratings.
+- Preferred Visualization: Donut Chart.
 2. Sales Breakdown by Product Category.
--Purpose: Assess the contribution of various product types to total sales.
--Additional Insights: Compare how other KPIs vary with different product types.
--Preferred Visualization: Bar Chart.
+- Purpose: Assess the contribution of various product types to total sales.
+- Additional Insights: Compare how other KPIs vary with different product types.
+- Preferred Visualization: Bar Chart.
 3. Fat Content Influence Across Outlets
--Purpose: Analyze total sales across different outlets based on fat content segmentation.
--Additional Insights: Identify variations in average sales, product count, and customer ratings across outlets.
--Preferred Visualization: Stacked Column Chart.
+- Purpose: Analyze total sales across different outlets based on fat content segmentation.
+- Additional Insights: Identify variations in average sales, product count, and customer ratings across outlets.
+- Preferred Visualization: Stacked Column Chart.
 4. Sales Trend by Outlet Age & Type
--Purpose: Determine how the establishment year or type of an outlet affects total sales.
--Preferred Visualization: Line Chart.
+- Purpose: Determine how the establishment year or type of an outlet affects total sales.
+- Preferred Visualization: Line Chart.
 5. Impact of Outlet Size on Sales
--Purpose: Investigate the relationship between outlet size and total revenue.
--Preferred Visualization: Donut/Pie Chart.
+- Purpose: Investigate the relationship between outlet size and total revenue.
+- Preferred Visualization: Donut/Pie Chart.
 6. Sales Distribution by Geographic Location
--Purpose: Map out sales performance across different locations to identify regional trends.
--Preferred Visualization: Funnel Map.
+- Purpose: Map out sales performance across different locations to identify regional trends.
+- Preferred Visualization: Funnel Map.
 7. Consolidated Metrics by Outlet Type
--Purpose: Offer a comprehensive view of all KPIs, such as total sales, average revenue, product count, and customer ratings, categorized by outlet type.
--Preferred Visualization: Matrix Card.
+- Purpose: Offer a comprehensive view of all KPIs, such as total sales, average revenue, product count, and customer ratings, categorized by outlet type.
+- Preferred Visualization: Matrix Card.
